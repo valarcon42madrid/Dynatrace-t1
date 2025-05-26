@@ -1,7 +1,7 @@
-# Taller 1: OneAgent en Contenedor con Microservicio Python
+# Taller 1: OneAgent con Microservicio Python
 
 ## Objetivo
-Instalar Dynatrace OneAgent para un contenedor Docker que ejecuta un microservicio Python y validar la visibilidad del servicio desde Dynatrace.
+Instalar Dynatrace OneAgent y ejecutar un microservicio Python, validar la visibilidad del servicio desde Dynatrace.
 
 ## Requisitos
 - Cuenta activa en Dynatrace (SaaS).
