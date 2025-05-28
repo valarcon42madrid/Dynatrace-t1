@@ -50,4 +50,5 @@ docker run -d -p 5000:5000 python-microservice
 
 # CUANDO ACABES: Elimina dynatrace y destruye el contenedor
 ( sudo /opt/dynatrace/oneagent/agent/uninstall.sh
+
 docker rm python-microservice )
