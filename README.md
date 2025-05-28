@@ -46,8 +46,8 @@ docker run -d -p 5000:5000 python-microservice
 
 ![Datos recibidos en dynatrace](Imagen1Dyna.png)
 
-Extra: Modifica la aplicación para generar más datos y genera dashboards si te ves capaz. 
+# Extra: Modifica la aplicación para generar más datos y genera dashboards si te ves capaz. 
 
-CUANDO ACABES: Destruye dynatrace y destruye el contenedor
+# CUANDO ACABES: Elimina dynatrace y destruye el contenedor
 ( sudo /opt/dynatrace/oneagent/agent/uninstall.sh
-docker rm …)
+docker rm python-microservice )
